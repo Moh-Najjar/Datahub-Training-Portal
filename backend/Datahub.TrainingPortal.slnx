@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Datahub.TrainingPortal.Api/Datahub.TrainingPortal.Api.csproj" />
+  <Project Path="Datahub.TrainingPortal.Application/Datahub.TrainingPortal.Application.csproj" />
+  <Project Path="Datahub.TrainingPortal.Domain/Datahub.TrainingPortal.Domain.csproj" />
+  <Project Path="Datahub.TrainingPortal.Infrastructure/Datahub.TrainingPortal.Infrastructure.csproj" />
+</Solution>
